@@ -523,6 +523,10 @@ form{
 #link6{
 	color: green;
 }
+#endline{
+	text-align: center;
+	font-size: 0.8em;
+}
 @media(max-width: 580px){
 	h4:before{
 		display: none;

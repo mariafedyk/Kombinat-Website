@@ -558,6 +558,10 @@ form{
 		display: none;
 	}
 }
+#endline{
+	text-align: center;
+	font-size: 1.5em;
+}
 @media (max-width: 430px){
 	.bottomtitlenewone{
 		margin-left: 3px;
